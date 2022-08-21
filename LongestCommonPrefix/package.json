@@ -1,0 +1,14 @@
+{
+  "name": "longestcommonprefix",
+  "version": "1.0.0",
+  "description": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-cc": "jest --coverage",
+    "test-watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
